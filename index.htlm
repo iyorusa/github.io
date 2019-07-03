@@ -1,0 +1,15 @@
+	<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="utf-8">
+	<title>white book</title>
+</head>
+<body>
+	<div>
+<h1>welcome</h1>
+    </div>
+</body> 
+<script type="text/javascript">
+	window.location.replace("google.com");
+</script>
+</html>
